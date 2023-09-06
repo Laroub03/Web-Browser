@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\bin\Debug\net7.0\Web-Browser.exe
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\bin\Debug\net7.0\Web-Browser.deps.json
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\bin\Debug\net7.0\Web-Browser.runtimeconfig.json
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\bin\Debug\net7.0\Web-Browser.dll
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\bin\Debug\net7.0\Web-Browser.pdb
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\Web-Browser.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\Web-Browser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\Web-Browser.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\Web-Browser.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\Web-Browser.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\Web-Browser.dll
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\refint\Web-Browser.dll
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\Web-Browser.pdb
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\Web-Browser.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Web-Browser\Web-Browser\obj\Debug\net7.0\ref\Web-Browser.dll
